@@ -1,4 +1,4 @@
-## Project README
+## Test Task
 
 ### Description
 This project focuses on importing a dump file containing employee, department, salary, donation, and rate data into a PostgreSQL database. It also includes the implementation of an API endpoint that calculates rewards for employees who have donated more than $100 to charity.
