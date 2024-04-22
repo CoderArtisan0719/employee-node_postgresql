@@ -1,0 +1,8231 @@
+E-List
+
+  Employee
+    id: 45287
+    name: Kamron
+    surname: Cummerata
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 26519
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 67616
+        amount: 5564.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 99989
+        amount: 5564.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 50409
+        amount: 5786.56
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 43255
+        amount: 5786.56
+        date: Fri May 28 2021
+
+      Statement
+        id: 60387
+        amount: 5786.56
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 26701
+        amount: 5786.56
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 11021
+        amount: 6075.89
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 12112
+        amount: 6075.89
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 24006
+        amount: 6075.89
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 23225
+        amount: 6075.89
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 64675
+        amount: 6318.92
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 72202
+    name: Ayla
+    surname: Lakin
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 95984
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 22541
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 8929
+        amount: 8820.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 84254
+        amount: 8820.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 95824
+        amount: 8820.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 81603
+        amount: 8820.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 17602
+        amount: 8820.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 58691
+        amount: 8820.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 95196
+        amount: 8820.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 69997
+        amount: 8820.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 5059
+        amount: 9261.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 68247
+        amount: 9261.00
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 55743
+      date: Tue Jan 26 2021
+      amount: 257.04 GBP
+
+    Donation
+      id: 87303
+      date: Sat Feb 27 2021
+      amount: 402.36 USD
+
+
+  Employee
+    id: 14488
+    name: Domenic
+    surname: Olson
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 49729
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 33585
+        amount: 4472.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 51636
+        amount: 4472.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 40671
+        amount: 4472.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 16956
+        amount: 4472.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 89068
+        amount: 4740.32
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 56202
+        amount: 4740.32
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 2359
+        amount: 4740.32
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 96237
+        amount: 4740.32
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 17124
+        amount: 4740.32
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 9754
+        amount: 5024.74
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 65201
+        amount: 5024.74
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 94625
+      date: Sat Jan 23 2021
+      amount: 211.56 GBP
+
+
+  Employee
+    id: 96841
+    name: Jayce
+    surname: Hackett
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 66829
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 58783
+        amount: 4300.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 66498
+        amount: 4515.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 37336
+        amount: 4515.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 40605
+        amount: 4515.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 38878
+        amount: 4740.75
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 86140
+        amount: 4740.75
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 77132
+        amount: 4740.75
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 99279
+        amount: 4740.75
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 55931
+        amount: 4740.75
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 30790
+        amount: 4740.75
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 11225
+        amount: 4740.75
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 25453
+      date: Sun Jan 03 2021
+      amount: 138.46 AUD
+
+
+  Employee
+    id: 41492
+    name: Celia
+    surname: Mayert
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 40454
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 69211
+        amount: 5300.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 88655
+        amount: 5565.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 24584
+        amount: 5565.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 472
+        amount: 5843.25
+        date: Fri May 28 2021
+
+      Statement
+        id: 52151
+        amount: 5843.25
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 57122
+        amount: 5843.25
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 34613
+        amount: 6193.85
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 25353
+        amount: 6193.85
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 4342
+        amount: 6193.85
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 79077
+        amount: 6193.85
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 61235
+        amount: 6193.85
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 51251
+      date: Thu Jan 21 2021
+      amount: 230.55 EUR
+
+
+  Employee
+    id: 14180
+    name: Waldo
+    surname: Towne
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 72741
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 81659
+        amount: 5460.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 98611
+        amount: 5460.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 87514
+        amount: 5460.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 25772
+        amount: 5787.60
+        date: Fri May 28 2021
+
+      Statement
+        id: 19672
+        amount: 5787.60
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 94411
+        amount: 5787.60
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 90879
+        amount: 5787.60
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 4020
+        amount: 5787.60
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 11885
+        amount: 5787.60
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 62447
+        amount: 5787.60
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 3664
+        amount: 5787.60
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 37043
+      date: Wed Jan 27 2021
+      amount: 254.80 EUR
+
+    Donation
+      id: 55977
+      date: Mon Feb 01 2021
+      amount: 250.64 EUR
+
+
+  Employee
+    id: 93135
+    name: Meaghan
+    surname: Lakin
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 16608
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 89333
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 53961
+        amount: 8400.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 77687
+        amount: 8736.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 70758
+        amount: 8736.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 59523
+        amount: 8736.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 59411
+        amount: 8736.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 4140
+        amount: 8736.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 86996
+        amount: 8736.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 41350
+        amount: 8736.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 36948
+        amount: 8736.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 25716
+        amount: 8736.00
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 76744
+      date: Fri Jan 08 2021
+      amount: 260.40 EUR
+
+
+  Employee
+    id: 80074
+    name: Morgan
+    surname: Huel
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 48347
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 6641
+        amount: 5200.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 62020
+        amount: 5512.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 34309
+        amount: 5512.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 23834
+        amount: 5512.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 5199
+        amount: 5512.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 88514
+        amount: 5842.72
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 43428
+        amount: 5842.72
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 50175
+        amount: 5842.72
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 39503
+        amount: 5842.72
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 50421
+        amount: 6134.86
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 63166
+        amount: 6134.86
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 9636
+      date: Thu Jan 21 2021
+      amount: 254.80 GBP
+
+
+  Employee
+    id: 45295
+    name: Ottilie
+    surname: Harris
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 4557
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 93423
+        amount: 4300.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 52613
+        amount: 4300.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 97146
+        amount: 4472.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 75083
+        amount: 4472.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 10522
+        amount: 4472.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 89086
+        amount: 4472.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 25251
+        amount: 4650.88
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 66163
+        amount: 4650.88
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 70087
+        amount: 4650.88
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 399
+        amount: 4650.88
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 65479
+        amount: 4836.92
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 3654
+      date: Mon Jan 04 2021
+      amount: 184.04 GBP
+
+
+  Employee
+    id: 36781
+    name: Anais
+    surname: Littel
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 43002
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 75943
+        amount: 5617.50
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 10681
+        amount: 5617.50
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 16829
+        amount: 5617.50
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 64259
+        amount: 5617.50
+        date: Fri May 28 2021
+
+      Statement
+        id: 43798
+        amount: 5617.50
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 84061
+        amount: 5898.38
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 48556
+        amount: 5898.38
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 96942
+        amount: 5898.38
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 18423
+        amount: 5898.38
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 10759
+        amount: 5898.38
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 48198
+        amount: 5898.38
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 78792
+      date: Thu Jan 21 2021
+      amount: 160.50 EUR
+
+
+  Employee
+    id: 17717
+    name: Cassidy
+    surname: Connelly
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 93402
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 74043
+        amount: 5565.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 36518
+        amount: 5565.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 9753
+        amount: 5843.25
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 25953
+        amount: 5843.25
+        date: Fri May 28 2021
+
+      Statement
+        id: 80544
+        amount: 5843.25
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 29455
+        amount: 6193.85
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 83570
+        amount: 6193.85
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 66763
+        amount: 6193.85
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 17909
+        amount: 6193.85
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 15059
+        amount: 6503.54
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 47133
+        amount: 6503.54
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 36013
+    name: Tatum
+    surname: Mills
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 94796
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 34549
+        amount: 4725.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 23719
+        amount: 4725.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 60784
+        amount: 4725.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 16942
+        amount: 4725.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 92756
+        amount: 4914.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 82570
+        amount: 4914.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 17731
+        amount: 4914.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 78252
+        amount: 4914.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 77046
+        amount: 5110.56
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 90932
+        amount: 5110.56
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 48070
+        amount: 5110.56
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 77269
+    name: Jensen
+    surname: Wuckert
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 70282
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 71501
+        amount: 5618.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 83326
+        amount: 5618.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 70545
+        amount: 5898.90
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 75379
+        amount: 5898.90
+        date: Fri May 28 2021
+
+      Statement
+        id: 17021
+        amount: 5898.90
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 84961
+        amount: 6252.83
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 93113
+        amount: 6252.83
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 69475
+        amount: 6252.83
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 44195
+        amount: 6252.83
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 10096
+        amount: 6252.83
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 66456
+        amount: 6502.95
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 27749
+      date: Thu Jan 14 2021
+      amount: 230.55 GBP
+
+
+  Employee
+    id: 75217
+    name: Domenick
+    surname: Jones
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 89284
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 34608
+        amount: 5200.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 48012
+        amount: 5200.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 22228
+        amount: 5512.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 77612
+        amount: 5512.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 5685
+        amount: 5512.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 1945
+        amount: 5512.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 27492
+        amount: 5512.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 52023
+        amount: 5732.48
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 8128
+        amount: 5732.48
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 41536
+        amount: 5732.48
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 48319
+        amount: 5732.48
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 55003
+      date: Sun Jan 24 2021
+      amount: 201.76 AUD
+
+    Donation
+      id: 52763
+      date: Fri Feb 26 2021
+      amount: 230.36 GBP
+
+
+  Employee
+    id: 5613
+    name: Hiram
+    surname: Feeney
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 82867
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 25794
+        amount: 5350.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 145
+        amount: 5350.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 73815
+        amount: 5564.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 90428
+        amount: 5564.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 37929
+        amount: 5786.56
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 31856
+        amount: 5786.56
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 10575
+        amount: 5786.56
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 20545
+        amount: 5786.56
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 25165
+        amount: 6075.89
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 38307
+        amount: 6075.89
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 80601
+        amount: 6075.89
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 51103
+    name: Dangelo
+    surname: Larkin
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 25292
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 21438
+        amount: 4515.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 70320
+        amount: 4515.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 61389
+        amount: 4740.75
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 91811
+        amount: 4740.75
+        date: Fri May 28 2021
+
+      Statement
+        id: 4813
+        amount: 4740.75
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 30805
+        amount: 4740.75
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 36311
+        amount: 4930.38
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 74598
+        amount: 4930.38
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 99063
+        amount: 4930.38
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 40452
+        amount: 4930.38
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 52310
+        amount: 4930.38
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 74649
+      date: Sun Jan 17 2021
+      amount: 132.44 USD
+
+    Donation
+      id: 16999
+      date: Sat Feb 20 2021
+      amount: 214.57 EUR
+
+    Donation
+      id: 28226
+      date: Wed Mar 17 2021
+      amount: 208.12 USD
+
+
+  Employee
+    id: 13822
+    name: Cruz
+    surname: Yundt
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 16028
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 8416
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 43583
+        amount: 8736.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 6265
+        amount: 8736.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 56769
+        amount: 8736.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 16729
+        amount: 8736.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 89651
+        amount: 8736.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 29759
+        amount: 9172.80
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 56132
+        amount: 9172.80
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 2808
+        amount: 9172.80
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 66600
+        amount: 9172.80
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 15006
+        amount: 9172.80
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 64803
+      date: Fri Jan 01 2021
+      amount: 260.40 GBP
+
+
+  Employee
+    id: 42334
+    name: Gage
+    surname: Pacocha
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 57914
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 70691
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 9799
+        amount: 8400.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 61126
+        amount: 8904.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 99253
+        amount: 8904.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 48348
+        amount: 8904.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 89048
+        amount: 8904.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 81047
+        amount: 9438.24
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 68602
+        amount: 9438.24
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 73069
+        amount: 9438.24
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 40476
+        amount: 9438.24
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 51360
+        amount: 9438.24
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 91307
+      date: Fri Jan 08 2021
+      amount: 322.56 EUR
+
+    Donation
+      id: 29069
+      date: Tue Feb 02 2021
+      amount: 362.88 AUD
+
+
+  Employee
+    id: 65861
+    name: Nicholaus
+    surname: Herman
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 45864
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 8453
+        amount: 5618.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 54430
+        amount: 5618.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 62898
+        amount: 5955.08
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 84346
+        amount: 5955.08
+        date: Fri May 28 2021
+
+      Statement
+        id: 23836
+        amount: 5955.08
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 80432
+        amount: 6193.28
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 83486
+        amount: 6193.28
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 67389
+        amount: 6193.28
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 75252
+        amount: 6193.28
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 13244
+        amount: 6502.95
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 33829
+        amount: 6502.95
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 273
+      date: Thu Jan 28 2021
+      amount: 222.07 EUR
+
+    Donation
+      id: 10591
+      date: Fri Feb 26 2021
+      amount: 204.58 AUD
+
+    Donation
+      id: 58107
+      date: Wed Mar 03 2021
+      amount: 255.46 GBP
+
+
+  Employee
+    id: 862
+    name: Ted
+    surname: Jerde
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 48363
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 68218
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 18829
+        amount: 8904.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 89073
+        amount: 8904.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 20391
+        amount: 8904.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 34817
+        amount: 8904.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 23233
+        amount: 8904.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 73683
+        amount: 8904.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 40451
+        amount: 8904.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 34870
+        amount: 8904.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 18830
+        amount: 8904.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 11334
+        amount: 8904.00
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 4718
+      date: Thu Jan 07 2021
+      amount: 326.76 USD
+
+
+  Employee
+    id: 86762
+    name: Laurine
+    surname: Breitenberg
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 11763
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 83988
+        amount: 4300.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 75547
+        amount: 4515.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 6183
+        amount: 4515.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 25632
+        amount: 4695.60
+        date: Fri May 28 2021
+
+      Statement
+        id: 84195
+        amount: 4695.60
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 89242
+        amount: 4695.60
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 2693
+        amount: 4695.60
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 67780
+        amount: 4695.60
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 40981
+        amount: 4930.38
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 96487
+        amount: 4930.38
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 55405
+        amount: 4930.38
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 10322
+      date: Wed Jan 13 2021
+      amount: 151.36 EUR
+
+    Donation
+      id: 60943
+      date: Thu Feb 11 2021
+      amount: 179.74 AUD
+
+
+  Employee
+    id: 45804
+    name: Marcel
+    surname: Sauer
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 13867
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 8924
+        amount: 5565.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 86530
+        amount: 5565.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 31069
+        amount: 5843.25
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 40518
+        amount: 5843.25
+        date: Fri May 28 2021
+
+      Statement
+        id: 53684
+        amount: 5843.25
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 58301
+        amount: 6076.98
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 49866
+        amount: 6076.98
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 43011
+        amount: 6076.98
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 42610
+        amount: 6076.98
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 49802
+        amount: 6441.60
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 66212
+        amount: 6441.60
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 58870
+    name: Arlo
+    surname: Bayer
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 49024
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 17545
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 49366
+        amount: 8736.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 73921
+        amount: 8736.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 71100
+        amount: 8736.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 13010
+        amount: 8736.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 89779
+        amount: 8736.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 90002
+        amount: 8736.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 77152
+        amount: 8736.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 85486
+        amount: 8736.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 56391
+        amount: 8736.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 55697
+        amount: 8736.00
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 84725
+      date: Thu Jan 14 2021
+      amount: 305.76 GBP
+
+
+  Employee
+    id: 14081
+    name: Gracie
+    surname: Grady
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 18537
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 13498
+        amount: 4770.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 42156
+        amount: 4770.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 66513
+        amount: 4770.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 8461
+        amount: 5056.20
+        date: Fri May 28 2021
+
+      Statement
+        id: 86986
+        amount: 5056.20
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 44405
+        amount: 5056.20
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 34713
+        amount: 5056.20
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 63005
+        amount: 5359.57
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 37197
+        amount: 5359.57
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 33710
+        amount: 5359.57
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 66848
+        amount: 5359.57
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 75953
+    name: Sherwood
+    surname: Gutmann
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 74894
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 48316
+        amount: 5671.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 57117
+        amount: 5671.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 86546
+        amount: 5671.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 3018
+        amount: 5671.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 4279
+        amount: 5954.55
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 32141
+        amount: 5954.55
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 42254
+        amount: 5954.55
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 46994
+        amount: 5954.55
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 12144
+        amount: 5954.55
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 88596
+        amount: 5954.55
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 96058
+        amount: 5954.55
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 31007
+      date: Sat Jan 09 2021
+      amount: 180.83 USD
+
+
+  Employee
+    id: 40160
+    name: Haylie
+    surname: Franey
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 62543
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 10300
+        amount: 4300.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 21785
+        amount: 4300.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 61296
+        amount: 4300.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 83168
+        amount: 4300.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 59686
+        amount: 4472.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 32083
+        amount: 4472.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 9341
+        amount: 4740.32
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 36936
+        amount: 4740.32
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 24444
+        amount: 4740.32
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 12289
+        amount: 4740.32
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 5734
+        amount: 4740.32
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 74192
+      date: Sun Jan 17 2021
+      amount: 146.20 EUR
+
+
+  Employee
+    id: 89141
+    name: Prudence
+    surname: Leannon
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 69277
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 81442
+        amount: 4500.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 79683
+        amount: 4500.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 84445
+        amount: 4500.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 14320
+        amount: 4500.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 24386
+        amount: 4770.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 26533
+        amount: 4770.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 44306
+        amount: 4770.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 51061
+        amount: 4770.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 46137
+        amount: 4770.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 51262
+        amount: 4770.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 42187
+        amount: 5008.50
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 46272
+      date: Tue Jan 12 2021
+      amount: 186.30 AUD
+
+    Donation
+      id: 97956
+      date: Thu Feb 18 2021
+      amount: 144.90 USD
+
+
+  Employee
+    id: 3941
+    name: Carlo
+    surname: Kautzer
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 92328
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 37687
+        amount: 5200.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 75578
+        amount: 5200.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 30971
+        amount: 5200.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 43779
+        amount: 5408.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 14842
+        amount: 5408.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 66935
+        amount: 5624.32
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 9711
+        amount: 5624.32
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 99607
+        amount: 5624.32
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 58883
+        amount: 5624.32
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 33573
+        amount: 5624.32
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 19167
+        amount: 5961.78
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 51357
+      date: Mon Jan 11 2021
+      amount: 224.12 EUR
+
+
+  Employee
+    id: 23341
+    name: Austin
+    surname: Bahringer
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 18710
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 29649
+        amount: 5512.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 57040
+        amount: 5512.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 20138
+        amount: 5512.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 31079
+        amount: 5512.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 94912
+        amount: 5512.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 13271
+        amount: 5787.60
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 31126
+        amount: 5787.60
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 46975
+        amount: 5787.60
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 66713
+        amount: 5787.60
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 57451
+        amount: 5787.60
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 91149
+        amount: 5787.60
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 12794
+      date: Tue Jan 05 2021
+      amount: 225.16 GBP
+
+
+  Employee
+    id: 12288
+    name: Lucas
+    surname: Purdy
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 15030
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 29194
+        amount: 5408.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 6158
+        amount: 5408.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 19059
+        amount: 5408.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 43971
+        amount: 5408.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 78424
+        amount: 5624.32
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 86122
+        amount: 5624.32
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 18070
+        amount: 5624.32
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 45800
+        amount: 5624.32
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 50214
+        amount: 5624.32
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 28732
+        amount: 5624.32
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 59101
+        amount: 5624.32
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 62018
+      date: Mon Jan 18 2021
+      amount: 241.28 EUR
+
+    Donation
+      id: 44215
+      date: Sun Feb 07 2021
+      amount: 254.80 EUR
+
+
+  Employee
+    id: 75981
+    name: Rusty
+    surname: Lynch
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 74415
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 71145
+        amount: 4725.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 3312
+        amount: 4725.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 80966
+        amount: 4725.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 75717
+        amount: 4725.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 64620
+        amount: 4914.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 41417
+        amount: 4914.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 59279
+        amount: 4914.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 84050
+        amount: 4914.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 9325
+        amount: 4914.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 17618
+        amount: 4914.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 33953
+        amount: 4914.00
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 15755
+    name: Carmel
+    surname: Carter
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 22720
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 55729
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 80704
+        amount: 8736.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 79039
+        amount: 8736.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 48311
+        amount: 8736.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 80324
+        amount: 8736.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 48022
+        amount: 9172.80
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 57433
+        amount: 9172.80
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 17254
+        amount: 9172.80
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 74089
+        amount: 9172.80
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 2396
+        amount: 9172.80
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 33607
+        amount: 9172.80
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 61266
+    name: Michele
+    surname: Senger
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 66029
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 75809
+        amount: 5350.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 41147
+        amount: 5350.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 6432
+        amount: 5564.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 28268
+        amount: 5564.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 81552
+        amount: 5564.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 12201
+        amount: 5564.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 81398
+        amount: 5564.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 76824
+        amount: 5564.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 95703
+        amount: 5564.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 70897
+        amount: 5786.56
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 95624
+        amount: 5786.56
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 8975
+      date: Fri Jan 08 2021
+      amount: 220.95 USD
+
+
+  Employee
+    id: 32278
+    name: Odell
+    surname: Bergstrom
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 63280
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 12682
+        amount: 5200.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 24617
+        amount: 5200.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 43534
+        amount: 5460.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 68415
+        amount: 5460.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 85156
+        amount: 5733.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 10511
+        amount: 5733.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 51876
+        amount: 5733.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 10144
+        amount: 5733.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 88032
+        amount: 5733.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 24342
+        amount: 5733.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 95448
+        amount: 5733.00
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 82856
+    name: Colin
+    surname: Weissnat
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 82986
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 82639
+        amount: 4725.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 57952
+        amount: 4725.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 46999
+        amount: 4725.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 57475
+        amount: 4725.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 20423
+        amount: 5008.50
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 47784
+        amount: 5008.50
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 52203
+        amount: 5008.50
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 99108
+        amount: 5008.50
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 72530
+        amount: 5008.50
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 20541
+        amount: 5309.01
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 71173
+        amount: 5309.01
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 17233
+      date: Wed Jan 27 2021
+      amount: 155.70 USD
+
+
+  Employee
+    id: 98016
+    name: Chris
+    surname: McKenzie
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 37252
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 88121
+        amount: 5350.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 11991
+        amount: 5350.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 75498
+        amount: 5350.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 52054
+        amount: 5671.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 23551
+        amount: 5671.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 59949
+        amount: 5671.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 5012
+        amount: 5897.84
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 20695
+        amount: 5897.84
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 42580
+        amount: 5897.84
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 88906
+        amount: 5897.84
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 37069
+        amount: 6251.71
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 51846
+    name: Ernesto
+    surname: Ruecker
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 77773
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 69419
+        amount: 8736.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 2145
+        amount: 8736.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 95201
+        amount: 8736.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 49869
+        amount: 8736.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 51414
+        amount: 8736.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 64377
+        amount: 8736.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 53996
+        amount: 8736.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 24510
+        amount: 8736.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 80023
+        amount: 8736.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 40490
+        amount: 8736.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 65027
+        amount: 8736.00
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 17249
+      date: Tue Jan 19 2021
+      amount: 272.16 USD
+
+
+  Employee
+    id: 94648
+    name: Wilford
+    surname: Cartwright
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 59990
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 48731
+        amount: 4558.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 9058
+        amount: 4558.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 4188
+        amount: 4558.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 35608
+        amount: 4558.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 97938
+        amount: 4785.90
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 21467
+        amount: 4785.90
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 38513
+        amount: 4785.90
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 30319
+        amount: 4785.90
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 34634
+        amount: 4785.90
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 14258
+        amount: 4785.90
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 73935
+        amount: 4785.90
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 47815
+    name: Vickie
+    surname: Moen
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 64206
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 19481
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 65048
+        amount: 8736.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 23089
+        amount: 8736.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 43316
+        amount: 8736.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 61520
+        amount: 8736.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 99441
+        amount: 8736.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 11297
+        amount: 8736.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 68063
+        amount: 9260.16
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 52497
+        amount: 9260.16
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 6316
+        amount: 9260.16
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 94284
+        amount: 9260.16
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 65534
+    name: Randal
+    surname: Lowe
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 1436
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 6673
+        amount: 5565.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 3265
+        amount: 5565.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 94115
+        amount: 5843.25
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 52770
+        amount: 5843.25
+        date: Fri May 28 2021
+
+      Statement
+        id: 61024
+        amount: 5843.25
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 7703
+        amount: 5843.25
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 41182
+        amount: 6076.98
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 68552
+        amount: 6076.98
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 2144
+        amount: 6076.98
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 14635
+        amount: 6076.98
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 17015
+        amount: 6441.60
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 5899
+      date: Sun Jan 24 2021
+      amount: 196.10 USD
+
+    Donation
+      id: 69205
+      date: Sun Feb 14 2021
+      amount: 265.00 USD
+
+    Donation
+      id: 92634
+      date: Wed Mar 24 2021
+      amount: 245.39 USD
+
+
+  Employee
+    id: 8244
+    name: Grady
+    surname: Cartwright
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 71331
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 35816
+        amount: 4300.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 92605
+        amount: 4515.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 33301
+        amount: 4515.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 92081
+        amount: 4515.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 50337
+        amount: 4515.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 67547
+        amount: 4515.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 77333
+        amount: 4785.90
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 36033
+        amount: 4785.90
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 72556
+        amount: 4785.90
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 41680
+        amount: 4785.90
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 51486
+        amount: 4785.90
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 82220
+    name: Ramiro
+    surname: Kuphal
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 76679
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 64654
+        amount: 4300.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 57327
+        amount: 4300.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 62175
+        amount: 4300.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 91734
+        amount: 4558.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 61849
+        amount: 4558.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 59628
+        amount: 4558.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 38936
+        amount: 4558.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 40442
+        amount: 4558.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 91966
+        amount: 4558.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 50851
+        amount: 4558.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 65915
+        amount: 4831.48
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 90586
+      date: Fri Jan 22 2021
+      amount: 191.35 USD
+
+    Donation
+      id: 98956
+      date: Tue Feb 09 2021
+      amount: 212.42 EUR
+
+
+  Employee
+    id: 26661
+    name: Nyasia
+    surname: Runte
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 52476
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 87252
+        amount: 4725.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 60484
+        amount: 4725.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 20280
+        amount: 4725.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 41437
+        amount: 4725.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 66747
+        amount: 4914.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 36369
+        amount: 4914.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 70780
+        amount: 4914.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 73388
+        amount: 4914.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 50244
+        amount: 5110.56
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 9727
+        amount: 5110.56
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 42284
+        amount: 5110.56
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 73536
+      date: Mon Jan 25 2021
+      amount: 221.40 EUR
+
+
+  Employee
+    id: 93241
+    name: Lexie
+    surname: Littel
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 88570
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 83848
+        amount: 4300.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 85318
+        amount: 4472.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 41570
+        amount: 4472.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 10334
+        amount: 4472.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 46054
+        amount: 4472.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 30373
+        amount: 4472.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 29373
+        amount: 4472.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 45371
+        amount: 4472.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 95184
+        amount: 4740.32
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 931
+        amount: 4740.32
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 19367
+        amount: 4740.32
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 91268
+    name: Meta
+    surname: Kertzmann
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 26222
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 47728
+        amount: 4770.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 62750
+        amount: 4770.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 31724
+        amount: 4770.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 95733
+        amount: 4960.80
+        date: Fri May 28 2021
+
+      Statement
+        id: 41363
+        amount: 4960.80
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 82106
+        amount: 4960.80
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 82171
+        amount: 4960.80
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 75055
+        amount: 4960.80
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 37576
+        amount: 4960.80
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 99474
+        amount: 5159.23
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 39809
+        amount: 5159.23
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 8101
+      date: Wed Jan 20 2021
+      amount: 153.00 USD
+
+    Donation
+      id: 7355
+      date: Fri Feb 05 2021
+      amount: 173.70 GBP
+
+
+  Employee
+    id: 65515
+    name: Wilfrid
+    surname: Reinger
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 23773
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 70977
+        amount: 5564.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 57078
+        amount: 5564.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 86365
+        amount: 5564.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 32423
+        amount: 5842.20
+        date: Fri May 28 2021
+
+      Statement
+        id: 54717
+        amount: 5842.20
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 58196
+        amount: 5842.20
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 9738
+        amount: 5842.20
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 28669
+        amount: 5842.20
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 30130
+        amount: 6192.73
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 72733
+        amount: 6192.73
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 67292
+        amount: 6192.73
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 37238
+    name: Hayden
+    surname: Dickinson
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 49388
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 81301
+        amount: 5350.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 76978
+        amount: 5617.50
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 39857
+        amount: 5617.50
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 63870
+        amount: 5898.38
+        date: Fri May 28 2021
+
+      Statement
+        id: 71423
+        amount: 5898.38
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 87517
+        amount: 5898.38
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 61596
+        amount: 5898.38
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 51
+        amount: 6252.28
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 89738
+        amount: 6252.28
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 6909
+        amount: 6252.28
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 10974
+        amount: 6252.28
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 89605
+    name: Bailee
+    surname: Wiegand
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 66391
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 68005
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 78181
+        amount: 8400.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 12085
+        amount: 8400.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 56883
+        amount: 8736.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 21837
+        amount: 8736.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 52557
+        amount: 8736.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 32728
+        amount: 8736.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 51528
+        amount: 8736.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 29579
+        amount: 8736.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 13630
+        amount: 8736.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 27680
+        amount: 8736.00
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 45982
+      date: Sat Jan 16 2021
+      amount: 330.96 GBP
+
+    Donation
+      id: 87556
+      date: Sat Feb 06 2021
+      amount: 291.48 AUD
+
+
+  Employee
+    id: 71966
+    name: Candelario
+    surname: O'Conner
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 52967
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 26870
+        amount: 4680.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 78038
+        amount: 4680.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 44968
+        amount: 4680.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 80288
+        amount: 4680.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 21788
+        amount: 4680.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 39396
+        amount: 4867.20
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 98350
+        amount: 4867.20
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 63394
+        amount: 4867.20
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 16132
+        amount: 4867.20
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 75274
+        amount: 4867.20
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 25703
+        amount: 5061.89
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 66655
+    name: Demarcus
+    surname: Bruen
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 98150
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 61626
+        amount: 5512.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 16418
+        amount: 5512.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 7338
+        amount: 5512.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 36840
+        amount: 5732.48
+        date: Fri May 28 2021
+
+      Statement
+        id: 87535
+        amount: 5732.48
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 1489
+        amount: 5732.48
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 663
+        amount: 6019.10
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 59833
+        amount: 6019.10
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 85413
+        amount: 6019.10
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 44782
+        amount: 6019.10
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 43871
+        amount: 6019.10
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 60855
+    name: Litzy
+    surname: Rau
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 49901
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 61973
+        amount: 5350.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 59097
+        amount: 5350.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 66433
+        amount: 5671.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 38821
+        amount: 5671.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 68269
+        amount: 5671.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 16395
+        amount: 6011.26
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 23659
+        amount: 6011.26
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 44264
+        amount: 6011.26
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 46742
+        amount: 6011.26
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 96664
+        amount: 6311.82
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 32538
+        amount: 6311.82
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 98479
+      date: Mon Jan 11 2021
+      amount: 171.73 GBP
+
+    Donation
+      id: 73934
+      date: Fri Feb 05 2021
+      amount: 219.89 USD
+
+    Donation
+      id: 94894
+      date: Fri Mar 19 2021
+      amount: 243.42 AUD
+
+
+  Employee
+    id: 5644
+    name: Nikolas
+    surname: King
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 31955
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 20148
+        amount: 5564.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 19779
+        amount: 5564.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 54541
+        amount: 5564.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 75913
+        amount: 5564.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 27127
+        amount: 5897.84
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 33521
+        amount: 5897.84
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 20995
+        amount: 5897.84
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 40648
+        amount: 5897.84
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 81640
+        amount: 5897.84
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 31325
+        amount: 5897.84
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 64265
+        amount: 5897.84
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 82729
+      date: Fri Jan 15 2021
+      amount: 163.17 GBP
+
+
+  Employee
+    id: 76050
+    name: Janiya
+    surname: Mohr
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 74156
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 37291
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 79213
+        amount: 8820.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 78046
+        amount: 8820.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 19448
+        amount: 8820.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 97516
+        amount: 8820.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 66687
+        amount: 8820.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 69472
+        amount: 9261.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 67489
+        amount: 9261.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 13704
+        amount: 9261.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 91844
+        amount: 9261.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 7777
+        amount: 9261.00
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 68386
+      date: Fri Jan 22 2021
+      amount: 415.80 AUD
+
+
+  Employee
+    id: 69311
+    name: Kaycee
+    surname: Morissette
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 51689
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 78024
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 32034
+        amount: 8400.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 28314
+        amount: 8400.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 84558
+        amount: 8400.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 24271
+        amount: 8400.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 65827
+        amount: 8736.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 61597
+        amount: 8736.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 95845
+        amount: 8736.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 21605
+        amount: 9085.44
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 43857
+        amount: 9085.44
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 41199
+        amount: 9085.44
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 10537
+      date: Mon Jan 25 2021
+      amount: 351.12 AUD
+
+
+  Employee
+    id: 27908
+    name: Mylene
+    surname: Toy
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 36049
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 52178
+        amount: 5512.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 86610
+        amount: 5512.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 52331
+        amount: 5732.48
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 5179
+        amount: 5732.48
+        date: Fri May 28 2021
+
+      Statement
+        id: 97518
+        amount: 5732.48
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 73809
+        amount: 5961.78
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 16329
+        amount: 5961.78
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 67400
+        amount: 5961.78
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 74158
+        amount: 5961.78
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 26505
+        amount: 5961.78
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 75653
+        amount: 5961.78
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 41763
+      date: Mon Jan 04 2021
+      amount: 225.78 GBP
+
+    Donation
+      id: 4253
+      date: Fri Feb 05 2021
+      amount: 198.22 USD
+
+
+  Employee
+    id: 69646
+    name: Shyann
+    surname: O'Kon
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 15241
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 12617
+        amount: 8736.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 52462
+        amount: 8736.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 80046
+        amount: 9085.44
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 35415
+        amount: 9085.44
+        date: Fri May 28 2021
+
+      Statement
+        id: 53869
+        amount: 9085.44
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 33351
+        amount: 9085.44
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 8779
+        amount: 9085.44
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 24912
+        amount: 9539.71
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 15250
+        amount: 9539.71
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 76461
+        amount: 9539.71
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 27235
+        amount: 9539.71
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 74827
+      date: Mon Jan 04 2021
+      amount: 420.00 EUR
+
+
+  Employee
+    id: 28147
+    name: Pearline
+    surname: Lynch
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 79393
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 10087
+        amount: 4515.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 70251
+        amount: 4515.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 57876
+        amount: 4515.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 56424
+        amount: 4740.75
+        date: Fri May 28 2021
+
+      Statement
+        id: 32264
+        amount: 4740.75
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 29290
+        amount: 4740.75
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 58737
+        amount: 4740.75
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 73319
+        amount: 4740.75
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 13868
+        amount: 4740.75
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 95285
+        amount: 4740.75
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 17695
+        amount: 4740.75
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 47689
+    name: Emmitt
+    surname: Maggio
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 98985
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 60092
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 50743
+        amount: 8400.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 23047
+        amount: 8400.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 73904
+        amount: 8400.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 24435
+        amount: 8400.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 87889
+        amount: 8904.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 88150
+        amount: 8904.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 77441
+        amount: 8904.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 46782
+        amount: 8904.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 20567
+        amount: 8904.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 689
+        amount: 8904.00
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 46664
+      date: Mon Jan 25 2021
+      amount: 309.12 GBP
+
+    Donation
+      id: 17159
+      date: Sun Feb 21 2021
+      amount: 410.76 AUD
+
+
+  Employee
+    id: 23571
+    name: Susanna
+    surname: Bode
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 75870
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 54702
+        amount: 5350.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 86867
+        amount: 5350.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 48239
+        amount: 5564.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 37785
+        amount: 5564.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 53285
+        amount: 5564.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 59922
+        amount: 5564.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 73740
+        amount: 5897.84
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 95880
+        amount: 5897.84
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 66876
+        amount: 5897.84
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 90649
+        amount: 5897.84
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 55167
+        amount: 6192.73
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 32082
+      date: Sun Jan 10 2021
+      amount: 206.51 USD
+
+    Donation
+      id: 25176
+      date: Thu Feb 18 2021
+      amount: 189.39 USD
+
+
+  Employee
+    id: 98406
+    name: Ewald
+    surname: Gerlach
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 8927
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 84651
+        amount: 5200.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 37467
+        amount: 5512.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 24061
+        amount: 5512.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 69223
+        amount: 5512.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 41445
+        amount: 5512.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 37416
+        amount: 5732.48
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 33037
+        amount: 5732.48
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 34564
+        amount: 5732.48
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 23578
+        amount: 5732.48
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 55641
+        amount: 5732.48
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 97291
+        amount: 5732.48
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 23031
+      date: Sat Jan 16 2021
+      amount: 243.36 AUD
+
+    Donation
+      id: 37589
+      date: Sun Feb 28 2021
+      amount: 212.16 EUR
+
+
+  Employee
+    id: 22821
+    name: Tony
+    surname: Kohler
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 81895
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 51903
+        amount: 4770.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 31526
+        amount: 4770.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 89181
+        amount: 4770.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 76791
+        amount: 4770.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 75091
+        amount: 5056.20
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 56766
+        amount: 5056.20
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 93723
+        amount: 5056.20
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 86310
+        amount: 5258.45
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 45868
+        amount: 5258.45
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 21347
+        amount: 5258.45
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 84565
+        amount: 5258.45
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 32696
+      date: Wed Jan 06 2021
+      amount: 171.45 GBP
+
+    Donation
+      id: 63483
+      date: Sun Feb 28 2021
+      amount: 220.50 AUD
+
+
+  Employee
+    id: 62429
+    name: Lori
+    surname: Lind
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 78670
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 45899
+        amount: 4558.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 33877
+        amount: 4558.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 83147
+        amount: 4740.32
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 40927
+        amount: 4740.32
+        date: Fri May 28 2021
+
+      Statement
+        id: 32870
+        amount: 4740.32
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 83337
+        amount: 4740.32
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 10753
+        amount: 4740.32
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 86250
+        amount: 4929.93
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 73893
+        amount: 4929.93
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 24133
+        amount: 4929.93
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 51178
+        amount: 4929.93
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 42399
+      date: Wed Jan 20 2021
+      amount: 210.27 USD
+
+
+  Employee
+    id: 64963
+    name: Edgardo
+    surname: Okuneva
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 2254
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 188
+        amount: 4725.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 48777
+        amount: 4725.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 13424
+        amount: 4961.25
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 1097
+        amount: 4961.25
+        date: Fri May 28 2021
+
+      Statement
+        id: 68187
+        amount: 4961.25
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 6367
+        amount: 4961.25
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 82153
+        amount: 5209.31
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 37709
+        amount: 5209.31
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 74024
+        amount: 5209.31
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 73253
+        amount: 5209.31
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 91094
+        amount: 5209.31
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 11959
+      date: Thu Jan 21 2021
+      amount: 196.20 AUD
+
+    Donation
+      id: 41057
+      date: Mon Feb 01 2021
+      amount: 169.65 AUD
+
+    Donation
+      id: 68956
+      date: Mon Mar 22 2021
+      amount: 218.25 EUR
+
+
+  Employee
+    id: 86206
+    name: Green
+    surname: Gerhold
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 56177
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 30297
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 88110
+        amount: 8400.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 18957
+        amount: 8400.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 95247
+        amount: 8400.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 61190
+        amount: 8904.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 58604
+        amount: 8904.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 22976
+        amount: 8904.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 23553
+        amount: 8904.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 28565
+        amount: 8904.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 77296
+        amount: 8904.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 63898
+        amount: 8904.00
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 29321
+    name: Jace
+    surname: Runolfsson
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 78076
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 1471
+        amount: 5671.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 28103
+        amount: 5671.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 11494
+        amount: 5954.55
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 24702
+        amount: 5954.55
+        date: Fri May 28 2021
+
+      Statement
+        id: 66302
+        amount: 5954.55
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 54018
+        amount: 5954.55
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 5439
+        amount: 5954.55
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 44666
+        amount: 6192.73
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 85248
+        amount: 6192.73
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 66662
+        amount: 6192.73
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 28007
+        amount: 6192.73
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 88184
+      date: Wed Jan 06 2021
+      amount: 217.21 EUR
+
+    Donation
+      id: 37780
+      date: Wed Feb 10 2021
+      amount: 220.42 GBP
+
+
+  Employee
+    id: 63871
+    name: David
+    surname: Kuvalis
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 47948
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 20490
+        amount: 5618.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 76687
+        amount: 5618.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 42776
+        amount: 5955.08
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 71184
+        amount: 5955.08
+        date: Fri May 28 2021
+
+      Statement
+        id: 19909
+        amount: 5955.08
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 38511
+        amount: 5955.08
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 38249
+        amount: 6312.38
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 38906
+        amount: 6312.38
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 35300
+        amount: 6312.38
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 94169
+        amount: 6312.38
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 78125
+        amount: 6312.38
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 37366
+      date: Wed Jan 20 2021
+      amount: 250.16 AUD
+
+
+  Employee
+    id: 15799
+    name: Hunter
+    surname: Spinka
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 73943
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 89225
+        amount: 5617.50
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 84777
+        amount: 5617.50
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 80444
+        amount: 5617.50
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 11291
+        amount: 5617.50
+        date: Fri May 28 2021
+
+      Statement
+        id: 92954
+        amount: 5842.20
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 23292
+        amount: 5842.20
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 63489
+        amount: 5842.20
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 49382
+        amount: 5842.20
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 78117
+        amount: 5842.20
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 56828
+        amount: 5842.20
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 71817
+        amount: 6075.89
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 81312
+      date: Sun Jan 10 2021
+      amount: 251.45 GBP
+
+    Donation
+      id: 30269
+      date: Wed Feb 03 2021
+      amount: 234.33 USD
+
+
+  Employee
+    id: 461
+    name: Brennan
+    surname: Hyatt
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 632
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 58193
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 73925
+        amount: 8400.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 49658
+        amount: 8904.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 46199
+        amount: 8904.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 7180
+        amount: 8904.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 21678
+        amount: 8904.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 32341
+        amount: 8904.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 85713
+        amount: 8904.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 49333
+        amount: 8904.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 31676
+        amount: 8904.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 13646
+        amount: 8904.00
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 59857
+      date: Mon Jan 04 2021
+      amount: 274.68 AUD
+
+
+  Employee
+    id: 63944
+    name: Kenyon
+    surname: Kreiger
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 60621
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 28022
+        amount: 5350.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 60526
+        amount: 5564.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 73821
+        amount: 5564.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 77796
+        amount: 5564.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 5188
+        amount: 5564.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 59053
+        amount: 5564.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 78510
+        amount: 5786.56
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 25463
+        amount: 5786.56
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 93918
+        amount: 5786.56
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 53644
+        amount: 5786.56
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 14391
+        amount: 6018.02
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 40090
+    name: Makenna
+    surname: Boyle
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 67001
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 74313
+        amount: 5565.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 60997
+        amount: 5565.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 71239
+        amount: 5898.90
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 1974
+        amount: 5898.90
+        date: Fri May 28 2021
+
+      Statement
+        id: 13470
+        amount: 5898.90
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 51346
+        amount: 6134.86
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 81523
+        amount: 6134.86
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 91678
+        amount: 6134.86
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 30334
+        amount: 6134.86
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 18044
+        amount: 6441.60
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 64522
+        amount: 6441.60
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 93986
+      date: Thu Jan 14 2021
+      amount: 210.41 AUD
+
+    Donation
+      id: 7775
+      date: Sun Feb 07 2021
+      amount: 198.22 USD
+
+
+  Employee
+    id: 9249
+    name: Leola
+    surname: Schmitt
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 72672
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 58456
+        amount: 5200.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 8035
+        amount: 5408.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 8324
+        amount: 5408.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 64246
+        amount: 5408.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 80122
+        amount: 5408.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 68686
+        amount: 5624.32
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 61259
+        amount: 5624.32
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 81568
+        amount: 5624.32
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 55057
+        amount: 5624.32
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 71744
+        amount: 5624.32
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 37741
+        amount: 5905.54
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 4671
+      date: Thu Jan 07 2021
+      amount: 252.72 EUR
+
+
+  Employee
+    id: 8695
+    name: Stevie
+    surname: Bailey
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 88123
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 3281
+        amount: 5618.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 38987
+        amount: 5618.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 62808
+        amount: 5842.72
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 33349
+        amount: 5842.72
+        date: Fri May 28 2021
+
+      Statement
+        id: 95099
+        amount: 5842.72
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 39851
+        amount: 6134.86
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 30784
+        amount: 6134.86
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 12020
+        amount: 6134.86
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 56963
+        amount: 6134.86
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 81738
+        amount: 6134.86
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 32342
+        amount: 6502.95
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 40298
+    name: Kathleen
+    surname: Rau
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 83919
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 9017
+        amount: 4500.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 23925
+        amount: 4770.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 13973
+        amount: 4770.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 71548
+        amount: 4960.80
+        date: Fri May 28 2021
+
+      Statement
+        id: 12181
+        amount: 4960.80
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 20538
+        amount: 4960.80
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 60857
+        amount: 4960.80
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 61188
+        amount: 5159.23
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 73730
+        amount: 5159.23
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 77949
+        amount: 5159.23
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 73600
+        amount: 5159.23
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 77157
+      date: Thu Jan 21 2021
+      amount: 173.70 USD
+
+    Donation
+      id: 93602
+      date: Mon Feb 01 2021
+      amount: 200.25 AUD
+
+
+  Employee
+    id: 3789
+    name: Ronaldo
+    surname: Hoeger
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 42784
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 1480
+        amount: 4770.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 33406
+        amount: 4770.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 58885
+        amount: 4770.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 2321
+        amount: 4770.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 48840
+        amount: 4770.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 52855
+        amount: 4960.80
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 56903
+        amount: 4960.80
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 10154
+        amount: 4960.80
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 56379
+        amount: 4960.80
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 56721
+        amount: 4960.80
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 93448
+        amount: 5159.23
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 29625
+      date: Sat Jan 23 2021
+      amount: 155.25 USD
+
+
+  Employee
+    id: 37770
+    name: Malika
+    surname: Koepp
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 681
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 67637
+        amount: 4472.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 63145
+        amount: 4472.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 42093
+        amount: 4472.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 18202
+        amount: 4472.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 39969
+        amount: 4472.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 44071
+        amount: 4472.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 53634
+        amount: 4472.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 18788
+        amount: 4472.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 60960
+        amount: 4472.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 69302
+        amount: 4650.88
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 42900
+        amount: 4650.88
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 83934
+      date: Thu Jan 28 2021
+      amount: 203.82 EUR
+
+
+  Employee
+    id: 19879
+    name: Nyasia
+    surname: Bogisich
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 93736
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 86628
+        amount: 5350.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 80773
+        amount: 5564.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 95150
+        amount: 5564.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 32465
+        amount: 5564.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 58121
+        amount: 5897.84
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 53037
+        amount: 5897.84
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 43914
+        amount: 5897.84
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 92086
+        amount: 5897.84
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 78728
+        amount: 5897.84
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 27636
+        amount: 6251.71
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 62325
+        amount: 6251.71
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 40610
+      date: Wed Jan 06 2021
+      amount: 173.34 USD
+
+
+  Employee
+    id: 76350
+    name: Kathryn
+    surname: Homenick
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 23889
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 96525
+        amount: 5512.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 46695
+        amount: 5512.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 94112
+        amount: 5787.60
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 88866
+        amount: 5787.60
+        date: Fri May 28 2021
+
+      Statement
+        id: 8669
+        amount: 5787.60
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 87002
+        amount: 5787.60
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 15129
+        amount: 5787.60
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 55859
+        amount: 5787.60
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 213
+        amount: 6076.98
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 34124
+        amount: 6076.98
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 43462
+        amount: 6076.98
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 44371
+      date: Tue Jan 12 2021
+      amount: 188.24 USD
+
+
+  Employee
+    id: 37723
+    name: Jack
+    surname: Volkman
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 91517
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 61244
+        amount: 5512.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 24164
+        amount: 5512.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 91096
+        amount: 5842.72
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 34074
+        amount: 5842.72
+        date: Fri May 28 2021
+
+      Statement
+        id: 32040
+        amount: 5842.72
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 36733
+        amount: 6076.43
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 42256
+        amount: 6076.43
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 65890
+        amount: 6076.43
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 42682
+        amount: 6076.43
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 75074
+        amount: 6319.49
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 42893
+        amount: 6319.49
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 70650
+    name: Jimmie
+    surname: Purdy
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 35270
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 51553
+        amount: 5200.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 25840
+        amount: 5200.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 16320
+        amount: 5512.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 39848
+        amount: 5512.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 28803
+        amount: 5512.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 75721
+        amount: 5732.48
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 51401
+        amount: 5732.48
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 36646
+        amount: 5732.48
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 95124
+        amount: 5732.48
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 14121
+        amount: 5732.48
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 66037
+        amount: 5732.48
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 88422
+      date: Mon Jan 25 2021
+      amount: 254.80 EUR
+
+
+  Employee
+    id: 15889
+    name: Myah
+    surname: Leannon
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 22158
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 83743
+        amount: 5618.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 93699
+        amount: 5618.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 82847
+        amount: 5618.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 38132
+        amount: 5842.72
+        date: Fri May 28 2021
+
+      Statement
+        id: 60996
+        amount: 5842.72
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 11
+        amount: 5842.72
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 62684
+        amount: 6193.28
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 95640
+        amount: 6193.28
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 82334
+        amount: 6193.28
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 41596
+        amount: 6193.28
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 56064
+        amount: 6564.88
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 87458
+      date: Sat Jan 23 2021
+      amount: 201.40 EUR
+
+    Donation
+      id: 82374
+      date: Sat Feb 13 2021
+      amount: 229.49 USD
+
+
+  Employee
+    id: 35473
+    name: Micheal
+    surname: Murphy
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 1742
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 4682
+        amount: 5350.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 11548
+        amount: 5564.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 18687
+        amount: 5564.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 49303
+        amount: 5897.84
+        date: Fri May 28 2021
+
+      Statement
+        id: 45561
+        amount: 5897.84
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 92974
+        amount: 5897.84
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 19023
+        amount: 5897.84
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 68689
+        amount: 6133.75
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 12914
+        amount: 6133.75
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 42268
+        amount: 6133.75
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 49909
+        amount: 6133.75
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 24270
+      date: Sun Jan 03 2021
+      amount: 220.95 USD
+
+    Donation
+      id: 33139
+      date: Tue Feb 16 2021
+      amount: 167.99 GBP
+
+
+  Employee
+    id: 18303
+    name: Orie
+    surname: Padberg
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 11450
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 37990
+        amount: 5512.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 50311
+        amount: 5512.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 1756
+        amount: 5787.60
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 72345
+        amount: 5787.60
+        date: Fri May 28 2021
+
+      Statement
+        id: 12903
+        amount: 5787.60
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 68436
+        amount: 6134.86
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 1466
+        amount: 6134.86
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 67726
+        amount: 6134.86
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 58655
+        amount: 6134.86
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 42912
+        amount: 6502.95
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 83946
+        amount: 6502.95
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 21889
+      date: Sat Jan 02 2021
+      amount: 191.86 USD
+
+
+  Employee
+    id: 96039
+    name: Greyson
+    surname: Sawayn
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 46439
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 54206
+        amount: 4300.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 8028
+        amount: 4515.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 39589
+        amount: 4515.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 29252
+        amount: 4515.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 93421
+        amount: 4515.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 58877
+        amount: 4740.75
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 54033
+        amount: 4740.75
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 13574
+        amount: 4740.75
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 19880
+        amount: 4740.75
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 15789
+        amount: 4740.75
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 80707
+        amount: 4740.75
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 20600
+      date: Fri Jan 08 2021
+      amount: 197.37 EUR
+
+    Donation
+      id: 29618
+      date: Sat Feb 13 2021
+      amount: 159.96 EUR
+
+    Donation
+      id: 31096
+      date: Thu Mar 04 2021
+      amount: 146.63 GBP
+
+
+  Employee
+    id: 29782
+    name: Leanne
+    surname: Hilpert
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 67123
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 48443
+        amount: 5565.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 36360
+        amount: 5565.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 65168
+        amount: 5843.25
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 80878
+        amount: 5843.25
+        date: Fri May 28 2021
+
+      Statement
+        id: 99000
+        amount: 5843.25
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 21888
+        amount: 6076.98
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 52534
+        amount: 6076.98
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 49349
+        amount: 6076.98
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 96819
+        amount: 6076.98
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 54924
+        amount: 6320.06
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 60205
+        amount: 6320.06
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 57030
+      date: Tue Jan 26 2021
+      amount: 215.18 EUR
+
+    Donation
+      id: 88264
+      date: Mon Feb 15 2021
+      amount: 225.25 GBP
+
+    Donation
+      id: 1387
+      date: Mon Mar 22 2021
+      amount: 252.81 GBP
+
+
+  Employee
+    id: 26489
+    name: Era
+    surname: Ankunding
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 4844
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 24604
+        amount: 5618.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 62094
+        amount: 5618.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 90153
+        amount: 5955.08
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 31075
+        amount: 5955.08
+        date: Fri May 28 2021
+
+      Statement
+        id: 71869
+        amount: 5955.08
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 67381
+        amount: 6312.38
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 20511
+        amount: 6312.38
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 25737
+        amount: 6312.38
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 58973
+        amount: 6312.38
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 28635
+        amount: 6312.38
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 22555
+        amount: 6564.88
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 52943
+      date: Thu Jan 14 2021
+      amount: 188.15 GBP
+
+    Donation
+      id: 36548
+      date: Fri Feb 05 2021
+      amount: 254.93 AUD
+
+    Donation
+      id: 28893
+      date: Mon Mar 22 2021
+      amount: 198.75 GBP
+
+
+  Employee
+    id: 38635
+    name: Thora
+    surname: Goldner
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 21882
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 11804
+        amount: 4500.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 59199
+        amount: 4500.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 83102
+        amount: 4680.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 55951
+        amount: 4680.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 47829
+        amount: 4960.80
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 96737
+        amount: 4960.80
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 16930
+        amount: 4960.80
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 75738
+        amount: 4960.80
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 99264
+        amount: 4960.80
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 75856
+        amount: 5208.84
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 58993
+        amount: 5208.84
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 9378
+      date: Mon Jan 04 2021
+      amount: 222.30 GBP
+
+    Donation
+      id: 32765
+      date: Fri Feb 12 2021
+      amount: 204.30 AUD
+
+
+  Employee
+    id: 63670
+    name: Norberto
+    surname: Wilderman
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 91829
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 59793
+        amount: 5408.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 49233
+        amount: 5408.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 79619
+        amount: 5408.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 97603
+        amount: 5624.32
+        date: Fri May 28 2021
+
+      Statement
+        id: 50558
+        amount: 5624.32
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 92016
+        amount: 5624.32
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 86758
+        amount: 5624.32
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 58761
+        amount: 5624.32
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 27719
+        amount: 5624.32
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 12759
+        amount: 5624.32
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 32135
+        amount: 5624.32
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 91422
+    name: Leon
+    surname: Sanford
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 85448
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 89054
+        amount: 5565.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 92181
+        amount: 5565.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 95655
+        amount: 5898.90
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 14436
+        amount: 5898.90
+        date: Fri May 28 2021
+
+      Statement
+        id: 74797
+        amount: 5898.90
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 77153
+        amount: 6193.85
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 92646
+        amount: 6193.85
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 19224
+        amount: 6193.85
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 3146
+        amount: 6193.85
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 46362
+        amount: 6503.54
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 53228
+        amount: 6503.54
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 73811
+      date: Mon Jan 18 2021
+      amount: 177.02 AUD
+
+
+  Employee
+    id: 96177
+    name: Anissa
+    surname: Crona
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 15285
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 21074
+        amount: 8904.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 51831
+        amount: 8904.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 11034
+        amount: 8904.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 80334
+        amount: 8904.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 57073
+        amount: 8904.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 94005
+        amount: 8904.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 58522
+        amount: 8904.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 35715
+        amount: 8904.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 36361
+        amount: 8904.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 64178
+        amount: 8904.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 95231
+        amount: 8904.00
+        date: Tue Dec 28 2021
+//TODO
+
+    Donation
+      id: 30092
+      date: Tue Jan 26 2021
+      amount: 413.28 USD
+
+    Donation
+      id: 98601
+      date: Thu Feb 18 2021
+      amount: 391.44 EUR
+
+    Donation
+      id: 38544
+      date: Wed Mar 10 2021
+      amount: 295.68 GBP
+
+
+  Employee
+    id: 20515
+    name: Blake
+    surname: Monahan
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 24737
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 8009
+        amount: 4472.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 84260
+        amount: 4472.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 68479
+        amount: 4472.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 83490
+        amount: 4472.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 23020
+        amount: 4472.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 65742
+        amount: 4472.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 66074
+        amount: 4472.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 11992
+        amount: 4472.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 47782
+        amount: 4472.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 68925
+        amount: 4472.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 71665
+        amount: 4740.32
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 35096
+      date: Sun Jan 24 2021
+      amount: 132.87 EUR
+
+
+  Employee
+    id: 99363
+    name: Ruby
+    surname: Thompson
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 83959
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 36374
+        amount: 5350.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 80491
+        amount: 5350.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 31409
+        amount: 5564.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 88355
+        amount: 5564.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 44232
+        amount: 5564.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 55418
+        amount: 5564.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 61924
+        amount: 5564.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 19463
+        amount: 5564.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 63204
+        amount: 5897.84
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 4369
+        amount: 5897.84
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 4849
+        amount: 5897.84
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 2993
+      date: Sat Jan 02 2021
+      amount: 177.62 EUR
+
+    Donation
+      id: 99103
+      date: Sun Feb 07 2021
+      amount: 194.20 USD
+
+
+  Employee
+    id: 99439
+    name: Brenna
+    surname: Thiel
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 67891
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 50444
+        amount: 5200.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 27795
+        amount: 5200.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 31788
+        amount: 5200.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 57010
+        amount: 5200.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 49706
+        amount: 5200.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 15563
+        amount: 5512.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 25398
+        amount: 5512.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 85478
+        amount: 5787.60
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 39576
+        amount: 5787.60
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 44234
+        amount: 5787.60
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 62014
+        amount: 5787.60
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 69622
+    name: Libby
+    surname: Huel
+
+    Department
+      id: 10632
+      name: Automotive
+
+    Salary
+
+      Statement
+        id: 14078
+        amount: 4500.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 95225
+        amount: 4725.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 17741
+        amount: 4725.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 3597
+        amount: 4725.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 78978
+        amount: 4725.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 48695
+        amount: 5008.50
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 96699
+        amount: 5008.50
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 73961
+        amount: 5008.50
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 20165
+        amount: 5008.50
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 54529
+        amount: 5309.01
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 82649
+        amount: 5309.01
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 37998
+        amount: 5309.01
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 66769
+      date: Tue Jan 19 2021
+      amount: 222.75 AUD
+
+
+  Employee
+    id: 9662
+    name: Jovany
+    surname: Kassulke
+
+    Department
+      id: 3027
+      name: Games
+
+    Salary
+
+      Statement
+        id: 78885
+        amount: 4300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 36218
+        amount: 4300.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 54265
+        amount: 4300.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 21727
+        amount: 4300.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 81840
+        amount: 4300.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 72492
+        amount: 4300.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 83097
+        amount: 4472.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 18179
+        amount: 4472.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 52311
+        amount: 4472.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 42335
+        amount: 4472.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 7993
+        amount: 4472.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 24826
+        amount: 4472.00
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 75771
+    name: Emery
+    surname: Lehner
+
+    Department
+      id: 9612
+      name: Games
+
+    Salary
+
+      Statement
+        id: 85928
+        amount: 8400.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 70061
+        amount: 8400.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 12721
+        amount: 8400.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 2817
+        amount: 8904.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 2287
+        amount: 8904.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 71228
+        amount: 8904.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 54822
+        amount: 8904.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 24347
+        amount: 8904.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 50017
+        amount: 8904.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 6523
+        amount: 8904.00
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 46008
+        amount: 8904.00
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 83926
+        amount: 8904.00
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 871
+      date: Sat Jan 09 2021
+      amount: 358.68 EUR
+
+    Donation
+      id: 3900
+      date: Fri Feb 05 2021
+      amount: 322.56 GBP
+
+
+  Employee
+    id: 23172
+    name: Shanon
+    surname: Mertz
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 33080
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 17628
+        amount: 5200.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 83880
+        amount: 5408.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 18449
+        amount: 5408.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 21876
+        amount: 5408.00
+        date: Fri May 28 2021
+
+      Statement
+        id: 28464
+        amount: 5408.00
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 43034
+        amount: 5408.00
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 76704
+        amount: 5408.00
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 87628
+        amount: 5408.00
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 78396
+        amount: 5732.48
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 6016
+        amount: 5732.48
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 12489
+        amount: 5732.48
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 20335
+      date: Sun Jan 17 2021
+      amount: 249.60 GBP
+
+
+  Employee
+    id: 83975
+    name: Jaylan
+    surname: Conroy
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 16298
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 88898
+        amount: 5460.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 30437
+        amount: 5460.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 45138
+        amount: 5460.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 83755
+        amount: 5787.60
+        date: Fri May 28 2021
+
+      Statement
+        id: 99152
+        amount: 5787.60
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 2930
+        amount: 5787.60
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 5211
+        amount: 6134.86
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 18636
+        amount: 6134.86
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 94525
+        amount: 6134.86
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 63090
+        amount: 6134.86
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 68707
+        amount: 6134.86
+        date: Tue Dec 28 2021
+
+
+
+  Employee
+    id: 66056
+    name: Raphael
+    surname: Rodriguez
+
+    Department
+      id: 10045
+      name: Electronics
+
+    Salary
+
+      Statement
+        id: 65491
+        amount: 5200.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 52670
+        amount: 5460.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 44552
+        amount: 5460.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 39026
+        amount: 5678.40
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 87685
+        amount: 5678.40
+        date: Fri May 28 2021
+
+      Statement
+        id: 69514
+        amount: 5678.40
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 5541
+        amount: 5678.40
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 47495
+        amount: 5678.40
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 71000
+        amount: 5678.40
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 97666
+        amount: 5678.40
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 19388
+        amount: 5678.40
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 27984
+        amount: 5678.40
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 253
+      date: Sun Jan 03 2021
+      amount: 166.40 AUD
+
+
+  Employee
+    id: 6631
+    name: Fred
+    surname: Reichel
+
+    Department
+      id: 53694
+      name: Kids
+
+    Salary
+
+      Statement
+        id: 572
+        amount: 5350.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 79596
+        amount: 5564.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 29804
+        amount: 5564.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 14438
+        amount: 5564.00
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 26720
+        amount: 5897.84
+        date: Fri May 28 2021
+
+      Statement
+        id: 14672
+        amount: 5897.84
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 28169
+        amount: 5897.84
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 87251
+        amount: 5897.84
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 47627
+        amount: 5897.84
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 40346
+        amount: 5897.84
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 2484
+        amount: 5897.84
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 70941
+        amount: 5897.84
+        date: Tue Dec 28 2021
+
+
+    Donation
+      id: 23663
+      date: Tue Jan 26 2021
+      amount: 222.56 GBP
+
+    Donation
+      id: 26483
+      date: Wed Feb 24 2021
+      amount: 186.18 USD
+
+
+  Employee
+    id: 44417
+    name: Cary
+    surname: Wiza
+
+    Department
+      id: 5579
+      name: Grocery
+
+    Salary
+
+      Statement
+        id: 24027
+        amount: 5300.00
+        date: Thu Jan 28 2021
+
+      Statement
+        id: 26777
+        amount: 5618.00
+        date: Sun Feb 28 2021
+
+      Statement
+        id: 55296
+        amount: 5618.00
+        date: Sun Mar 28 2021
+
+      Statement
+        id: 47846
+        amount: 5842.72
+        date: Wed Apr 28 2021
+
+      Statement
+        id: 73532
+        amount: 5842.72
+        date: Fri May 28 2021
+
+      Statement
+        id: 37414
+        amount: 5842.72
+        date: Mon Jun 28 2021
+
+      Statement
+        id: 42206
+        amount: 6134.86
+        date: Wed Jul 28 2021
+
+      Statement
+        id: 77962
+        amount: 6134.86
+        date: Sat Aug 28 2021
+
+      Statement
+        id: 5487
+        amount: 6134.86
+        date: Tue Sep 28 2021
+
+      Statement
+        id: 27914
+        amount: 6134.86
+        date: Thu Oct 28 2021
+
+      Statement
+        id: 68224
+        amount: 6441.60
+        date: Sun Nov 28 2021
+
+      Statement
+        id: 68573
+        amount: 6441.60
+        date: Tue Dec 28 2021
+
+
+
+
+Rates
+
+  Rate
+    date: Tue Jan 26 2021
+    sign: GBP
+    value: 1.4062199999999998
+
+  Rate
+    date: Sat Jan 23 2021
+    sign: GBP
+    value: 1.425954
+
+  Rate
+    date: Sun Jan 03 2021
+    sign: AUD
+    value: 0.744
+
+  Rate
+    date: Thu Jan 21 2021
+    sign: EUR
+    value: 1.170355
+
+  Rate
+    date: Wed Jan 27 2021
+    sign: EUR
+    value: 1.189215
+
+  Rate
+    date: Mon Feb 01 2021
+    sign: EUR
+    value: 1.1517249999999999
+
+  Rate
+    date: Fri Jan 08 2021
+    sign: EUR
+    value: 1.180705
+
+  Rate
+    date: Thu Jan 21 2021
+    sign: GBP
+    value: 1.3597139999999999
+
+  Rate
+    date: Mon Jan 04 2021
+    sign: GBP
+    value: 1.3525379999999998
+
+  Rate
+    date: Thu Jan 14 2021
+    sign: GBP
+    value: 1.3717199999999998
+
+  Rate
+    date: Sun Jan 24 2021
+    sign: AUD
+    value: 0.72435
+
+  Rate
+    date: Fri Feb 26 2021
+    sign: GBP
+    value: 1.4069099999999999
+
+  Rate
+    date: Sat Feb 20 2021
+    sign: EUR
+    value: 1.1297599999999999
+
+  Rate
+    date: Fri Jan 01 2021
+    sign: GBP
+    value: 1.3468799999999999
+
+  Rate
+    date: Tue Feb 02 2021
+    sign: AUD
+    value: 0.7641749999999999
+
+  Rate
+    date: Thu Jan 28 2021
+    sign: EUR
+    value: 1.178175
+
+  Rate
+    date: Fri Feb 26 2021
+    sign: AUD
+    value: 0.730875
+
+  Rate
+    date: Wed Mar 03 2021
+    sign: GBP
+    value: 1.355022
+
+  Rate
+    date: Wed Jan 13 2021
+    sign: EUR
+    value: 1.17047
+
+  Rate
+    date: Thu Feb 11 2021
+    sign: AUD
+    value: 0.770775
+
+  Rate
+    date: Sun Jan 17 2021
+    sign: EUR
+    value: 1.14471
+
+  Rate
+    date: Tue Jan 12 2021
+    sign: AUD
+    value: 0.726375
+
+  Rate
+    date: Mon Jan 11 2021
+    sign: EUR
+    value: 1.165065
+
+  Rate
+    date: Tue Jan 05 2021
+    sign: GBP
+    value: 1.360128
+
+  Rate
+    date: Mon Jan 18 2021
+    sign: EUR
+    value: 1.11113
+
+  Rate
+    date: Sun Feb 07 2021
+    sign: EUR
+    value: 1.137235
+
+  Rate
+    date: Tue Feb 09 2021
+    sign: EUR
+    value: 1.16403
+
+  Rate
+    date: Mon Jan 25 2021
+    sign: EUR
+    value: 1.172655
+
+  Rate
+    date: Fri Feb 05 2021
+    sign: GBP
+    value: 1.33653
+
+  Rate
+    date: Sat Jan 16 2021
+    sign: GBP
+    value: 1.3318379999999999
+
+  Rate
+    date: Sat Feb 06 2021
+    sign: AUD
+    value: 0.74385
+
+  Rate
+    date: Mon Jan 11 2021
+    sign: GBP
+    value: 1.4031839999999998
+
+  Rate
+    date: Fri Mar 19 2021
+    sign: AUD
+    value: 0.732525
+
+  Rate
+    date: Fri Jan 15 2021
+    sign: GBP
+    value: 1.35516
+
+  Rate
+    date: Fri Jan 22 2021
+    sign: AUD
+    value: 0.742275
+
+  Rate
+    date: Mon Jan 25 2021
+    sign: AUD
+    value: 0.7389749999999999
+
+  Rate
+    date: Mon Jan 04 2021
+    sign: EUR
+    value: 1.156095
+
+  Rate
+    date: Mon Jan 25 2021
+    sign: GBP
+    value: 1.3374959999999998
+
+  Rate
+    date: Sun Feb 21 2021
+    sign: AUD
+    value: 0.7733999999999999
+
+  Rate
+    date: Sat Jan 16 2021
+    sign: AUD
+    value: 0.74505
+
+  Rate
+    date: Sun Feb 28 2021
+    sign: EUR
+    value: 1.146205
+
+  Rate
+    date: Wed Jan 06 2021
+    sign: GBP
+    value: 1.33791
+
+  Rate
+    date: Sun Feb 28 2021
+    sign: AUD
+    value: 0.7695000000000001
+
+  Rate
+    date: Thu Jan 21 2021
+    sign: AUD
+    value: 0.7716749999999999
+
+  Rate
+    date: Mon Feb 01 2021
+    sign: AUD
+    value: 0.741225
+
+  Rate
+    date: Mon Mar 22 2021
+    sign: EUR
+    value: 1.1437899999999999
+
+  Rate
+    date: Wed Jan 06 2021
+    sign: EUR
+    value: 1.1888699999999999
+
+  Rate
+    date: Wed Feb 10 2021
+    sign: GBP
+    value: 1.4193299999999998
+
+  Rate
+    date: Wed Jan 20 2021
+    sign: AUD
+    value: 0.7419
+
+  Rate
+    date: Sun Jan 10 2021
+    sign: GBP
+    value: 1.346466
+
+  Rate
+    date: Mon Jan 04 2021
+    sign: AUD
+    value: 0.75705
+
+  Rate
+    date: Thu Jan 14 2021
+    sign: AUD
+    value: 0.7409250000000001
+
+  Rate
+    date: Thu Jan 07 2021
+    sign: EUR
+    value: 1.132175
+
+  Rate
+    date: Sat Jan 23 2021
+    sign: EUR
+    value: 1.137005
+
+  Rate
+    date: Tue Feb 16 2021
+    sign: GBP
+    value: 1.3677179999999998
+
+  Rate
+    date: Sat Feb 13 2021
+    sign: EUR
+    value: 1.142525
+
+  Rate
+    date: Thu Mar 04 2021
+    sign: GBP
+    value: 1.377516
+
+  Rate
+    date: Tue Jan 26 2021
+    sign: EUR
+    value: 1.1157299999999999
+
+  Rate
+    date: Mon Feb 15 2021
+    sign: GBP
+    value: 1.370202
+
+  Rate
+    date: Mon Mar 22 2021
+    sign: GBP
+    value: 1.3771019999999998
+
+  Rate
+    date: Fri Feb 05 2021
+    sign: AUD
+    value: 0.7707
+
+  Rate
+    date: Fri Feb 12 2021
+    sign: AUD
+    value: 0.7662
+
+  Rate
+    date: Mon Jan 18 2021
+    sign: AUD
+    value: 0.7444500000000001
+
+  Rate
+    date: Thu Feb 18 2021
+    sign: EUR
+    value: 1.1716199999999999
+
+  Rate
+    date: Wed Mar 10 2021
+    sign: GBP
+    value: 1.379448
+
+  Rate
+    date: Sun Jan 24 2021
+    sign: EUR
+    value: 1.1296449999999998
+
+  Rate
+    date: Sat Jan 02 2021
+    sign: EUR
+    value: 1.1319449999999998
+
+  Rate
+    date: Tue Jan 19 2021
+    sign: AUD
+    value: 0.7629000000000001
+
+  Rate
+    date: Sat Jan 09 2021
+    sign: EUR
+    value: 1.1511499999999997
+
+  Rate
+    date: Sun Jan 17 2021
+    sign: GBP
+    value: 1.378758
+
+
